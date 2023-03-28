@@ -1,0 +1,1 @@
+export const serverPath = 'https://spurious-jumbled-match.glitch.me/requests/';
